@@ -1,6 +1,6 @@
 require 'formula'
 
-class Node4 < Formula
+class Node04 < Formula
   homepage 'http://nodejs.org/'
   url 'http://nodejs.org/dist/node-v0.4.12.tar.gz'
   md5 'a6375eaa43db5356bf443e25b828ae16'
